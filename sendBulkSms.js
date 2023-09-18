@@ -1,10 +1,10 @@
 function sendBulkSms() {
   // Replace these with your Twilio Account SID and Auth Token
-  var twilioAccountSid = 'AC8bb0211c5ff140fb068adcf241255c7a';
-  var twilioAuthToken = '8cd72f6a1a0d6c1b7dd5ea861da88561';
+  var twilioAccountSid = 'YOUR_TWILIO_SID_HERE';
+  var twilioAuthToken = 'YOUR_TWILIO_AUTH_TOKEN_HERE';
 
   // Replace this with your Twilio phone number
-  var fromPhoneNumber = '+15074106096';
+  var fromPhoneNumber = 'YOUR_TWILIO_PHONE_NUMBER_HERE';
 
   // Get the active sheet
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
