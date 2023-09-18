@@ -65,4 +65,5 @@ The `status` 📈 column in the Google Sheets document serves as a real-time ind
 ---
 To input a phone number in the spreadsheet, use the following format: `'+919999999999'`. You may also use any valid country code. In this example, '+91' has been used as an illustration, as shown in the image below:
 
-![image](https://github.com/CyberWarrior743/Twilio_SendBulkSMS_Automation/assets/80274814/f878a6d2-d09b-40fc-8a3f-0551702bd15c)
+![Screenshot 2023-09-18 200428](https://github.com/CyberWarrior743/Twilio_SendBulkSMS_Automation/assets/80274814/debdc6cb-e93d-4376-96e2-01b7d608b284)
+
